@@ -1,70 +1,128 @@
-# Getting Started with Create React App
+# 🔮 TopicSearch – Frontend Developer Intern Assignment  
+Built by **⚡ Diwakar Reddy**
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A React-based interactive Topic Browser inspired by TOTLE’s Catalogue Management System.  
+This project allows users to explore topics, filter by category, search instantly, toggle between themes, and enjoy a modern animated UI.
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## 🚀 Features
 
-### `npm start`
+### ✅ Search Topics (Real-time Filtering)
+- Case-insensitive search  
+- Highlights matched text  
+- Handles empty input gracefully  
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### 🌈 Multi-Color Topic Cards
+- Category-based gradients  
+- 3D hover tilt animation  
+- Smooth fade-in entrance  
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### 🎛 Category Filters
+- Filter topics by category  
+- “All” category resets the list  
 
-### `npm test`
+### 🌙 Dark Mode / 🌞 Light Mode
+- Theme toggle button  
+- Beautiful color palettes for both themes  
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### 🔮 Modern UI Enhancements
+- Animated gradient background  
+- Neon search bar  
+- Glassmorphism container  
+- Responsive grid layout  
+- Attractive fonts & icons for all topics  
+- Custom neon signature under the title: **⚡ Diwakar Reddy**
 
-### `npm run build`
+---
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 🛠️ Tech Stack
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- **React.js**
+- JavaScript (ES6+)  
+- Inline CSS / Custom styling  
+- React Hooks (`useState`, `useMemo`)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+---
 
-### `npm run eject`
+## 📁 Project Structure
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+```
+topic-search/
+│
+├── src/
+│   ├── App.js
+│   ├── TopicSearch.js
+│   ├── index.js
+│   ├── App.css
+│   └── index.css
+│
+├── public/
+│   └── index.html
+│
+├── package.json
+└── README.md
+```
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+---
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## 🧪 How to Run the Project
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+1. Navigate to the project folder:
+```bash
+cd topic-search
+```
 
-## Learn More
+2. Install dependencies:
+```bash
+npm install
+```
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+3. Start the development server:
+```bash
+npm start
+```
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Your app will run at:  
+👉 http://localhost:3000
 
-### Code Splitting
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## 🎥 Video Explanation (2 Minutes)
 
-### Analyzing the Bundle Size
+Add your uploaded video link here (YouTube or Google Drive):  
+**Video Link:** `<Add your video link here>`
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+---
 
-### Making a Progressive Web App
+## 🔗 GitHub Repository
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+Add the GitHub link after you push the project:  
+**GitHub Repo:** `<Add your GitHub link here>`
 
-### Advanced Configuration
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+## 📸 Screenshots (Optional)
 
-### Deployment
+You can add screenshots of your UI here.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+---
 
-### `npm run build` fails to minify
+## 📝 Assignment Checklist (Completed)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- TopicSearch component ✔  
+- Search bar ✔  
+- Topic cards ✔  
+- Real-time filtering ✔  
+- Category filters ✔  
+- “No topics found” message ✔  
+- 24 topics with icons ✔  
+- Dark/Light mode ✔  
+- Modern UI enhancements ✔  
+- README added ✔  
+- Video (to be added) ✔  
+
+---
+
+## 🙌 Credits  
+Developed with ❤️ by **⚡ Diwakar Reddy**
