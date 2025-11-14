@@ -98,7 +98,7 @@ Add your uploaded video link here (YouTube or Google Drive):
 ## 🔗 GitHub Repository
 
 Add the GitHub link after you push the project:  
-**GitHub Repo:** `<Add your GitHub link here>`
+**GitHub Repo:** `https://github.com/Diwakarreddie/Topic-Browser.git`
 
 ---
 
