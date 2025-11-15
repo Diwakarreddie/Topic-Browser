@@ -13,7 +13,7 @@ This project allows users to explore topics, filter by category, search instantl
 - Highlights matched text  
 - Handles empty input gracefully  
 
-### 🌈 Multi-Color Topic Cards
+###  Multi-Color Topic Cards
 - Category-based gradients  
 - 3D hover tilt animation  
 - Smooth fade-in entrance  
